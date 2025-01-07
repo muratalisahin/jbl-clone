@@ -1,8 +1,12 @@
 <h2> JBL Clone Response </h2>
-<h4>�Bu proje, JBL markasına benzer bir ses sistemi hoparlörü web tasarımını taklit eden bir responsive web sitesi tasarımını içermektedir. HTML5, CSS ve SCSS kullanılarak modern, şık ve kullanıcı dostu bir tasarım oluşturulmuştur.<br>
+<h4>�Bu proje, JBL markasına benzer bir ses sistemi hoparlörü web tasarımını taklit eden bir responsive web sitesi tasarımını içermektedir<br>
+
+  . HTML5, CSS ve SCSS kullanılarak modern, şık ve kullanıcı dostu bir tasarım oluşturulmuştur.<br>
 
 Proje Özeti
-�JBL Clone Response, kullanıcılara yüksek kaliteli ses deneyimini tanıtan bir ses sistemi ürün sayfasını simüle etmektedir. Bu proje, estetik görseller, modern web tasarımı ve �dinamik kullanıcı etkileşimleri ile JBL benzeri bir ürün deneyimini kullanıcıya sunar.<br>
+�JBL Clone Response, kullanıcılara yüksek kaliteli ses deneyimini tanıtan bir ses sistemi ürün sayfasını simüle etmektedir.
+Bu proje, estetik görseller, modern web tasarımı ve dinamik kullanıcı etkileşimleri ile JBL benzeri bir ürün deneyimini kullanıcıya sunar
+�<br>
 
 �Projenin amacı, basit HTML5 yapısı, SCSS ile stil yönetimi ve CSS ile etkileşimli görseller kullanarak, estetik ve işlevsel bir web tasarımı yapmaktır.<br>
 
