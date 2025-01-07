@@ -3,8 +3,8 @@
 
   . HTML5, CSS ve SCSS kullanılarak modern, şık ve kullanıcı dostu bir tasarım oluşturulmuştur.<br>
 
-Proje Özeti
-�JBL Clone Response, kullanıcılara yüksek kaliteli ses deneyimini tanıtan bir ses sistemi ürün sayfasını simüle etmektedir.
+Proje Özeti<br>
+�JBL Clone Response, kullanıcılara yüksek kaliteli ses deneyimini tanıtan bir ses sistemi ürün sayfasını simüle etmektedir.<br>
 Bu proje, estetik görseller, modern web tasarımı ve dinamik kullanıcı etkileşimleri ile JBL benzeri bir ürün deneyimini kullanıcıya sunar
 �<br>
 
