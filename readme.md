@@ -20,5 +20,7 @@ Kullanılan Teknolojiler
 〞Modüler SCSS yapısı: SCSS kullanarak stil dosyalarının daha düzenli ve bakımı kolay hale getirilmesi.〞<br>
 </h4>
 
-![alt text](jbl-gif-converter.gif)
+
+
+![alt text](jbl-gif-converter.gif)<br><br>
 iletişim :muratalisahin61@gmail.com
